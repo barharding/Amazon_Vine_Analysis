@@ -8,11 +8,14 @@ This analysis was performed using Pyspark on Google CoLab, RDS on AWS, PGAdmin, 
 
 ## Results
 
-Using bulleted lists and images of DataFrames as support, address the following questions:
+The following questions are answered using the results shown in the final_df dataframe shown in _**Figure 1_** below.
 
 1. How many Vine reviews and non-Vine reviews were there?
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+**_Figure 1: Summary Results**
+![Final_df](/D2_Q5.png)
 
 
 ## Summary 
@@ -20,5 +23,4 @@ Using bulleted lists and images of DataFrames as support, address the following 
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
 
-**_Figure #: 348858eej_**
-![Streets](/streets.png)
+
