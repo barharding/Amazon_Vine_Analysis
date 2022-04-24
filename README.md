@@ -14,8 +14,8 @@ The following questions are answered using the results shown in the final_df dat
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-**_Figure 1: Summary Results**
-![Final_df](/D2_Q5.png)
+**_Figure 1: Summary Results_**
+![Final_df](images/D2_Q5.png)
 
 
 ## Summary 
