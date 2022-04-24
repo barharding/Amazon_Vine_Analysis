@@ -4,6 +4,8 @@
 
 Explain the purpose of this analysis.
 
+This analysis was performed using Pyspark on Google CoLab, RDS on AWS, PGAdmin, as well as data retrieval from AWS S3 storage for the purposes of analyzing product review data by Amazong Vine members and non-Vine members.  The Electronics product segment was selected for this analysis from a list of 50.
+
 ## Results
 
 Using bulleted lists and images of DataFrames as support, address the following questions:
