@@ -18,7 +18,6 @@ The following questions are answered using the results shown in the final_df dat
 
 ## Summary 
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
+The percentage of 5-star reviews for Vine and non-Vine members does not appear to show a positivity bias as shown in **_Figure 1_** above the outcome is 42% vs 46% respectively.  That said this analysis would be better served if more than just 5 star's were evaluated given a 4 star review is an equally positive review and could be included.  Furthermore, this dataset includes one product where there were 50 to choose from if an analysis were performed on the entire population of products the result could potentially be different.  
 
 
